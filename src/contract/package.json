@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@ethersproject/contracts": "^5.0.2",
+    "@ethersproject/contracts": "^5.7.0",
     "@ethersproject/providers": "^5.0.5",
     "@ethersproject/solidity": "^5.0.2",
     "@studydefi/money-legos": "^2.3.7",
