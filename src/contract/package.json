@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@ethersproject/contracts": "^5.0.2",
-    "@ethersproject/providers": "^5.0.5",
+    "@ethersproject/providers": "^5.7.2",
     "@ethersproject/solidity": "^5.0.2",
     "@studydefi/money-legos": "^2.3.7",
     "@truffle/artifactor": "^4.0.74",
